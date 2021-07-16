@@ -10,3 +10,5 @@ missions:
 ---
 
 À l'ombre des palmiers pour travailler !
+
+    end: 2021-11-30
